@@ -26,7 +26,6 @@ Scalable and reliable AI systems
 
 💡 Ask me about machine learning, deep learning, RAG systems, computer vision, and how to build real-world AI projects as a student
 
-
 ### Skills
 
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"><picture>
@@ -37,9 +36,6 @@ Scalable and reliable AI systems
 </picture></a> &nbsp;
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/mysql-colored.svg" alt="MySQL" />
-</picture></a> &nbsp;
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><picture>
-<img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" />
 </picture></a> &nbsp;
 <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><picture>
 <img height="36" width="36" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/skills/flask-colored-dark.svg" alt="Flask" />
