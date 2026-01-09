@@ -1,6 +1,7 @@
 # Hello 👋 I am Othmane Bouskine
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=27&pause=1000&color=921CB1&background=BB80FF00&center=true&vCenter=true&width=435&lines=AI+%26+Data+Science+Engineering+Student;Machine+Learning+%26+Deep+Learning+Enthusiast;Building+Intelligent+Data-Driven+Systems)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=27&pause=1000&color=921CB1&background=BB80FF00&center=true&vCenter=true&width=435&lines=AI+%26+Data+Explorer;GenAI+%26+LLMs+Enthusiast;Turning+Data+into+Intelligence)](https://git.io/typing-svg)
+
 
 I am an Artificial Intelligence and Data Science Engineering student, passionate about Machine Learning, Deep Learning, Computer Vision, and NLP. My goal is to build intelligent systems capable of solving real-world problems using data-driven and scalable approaches.
 
