@@ -82,9 +82,7 @@ Scalable and reliable AI systems
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BSK-OTHMANE&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> <br /> 
-  <img align="center" src="https://github-readme-streak-stats-two.vercel.app/?user=BSK-OTHMANE&theme=aura&hide_border=true&border_radius=8" width="50%" /> <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSK-OTHMANE&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> <br />
+  <img align="center" src="https://github-readme-streak-stats-two.vercel.app/?user=BSK-OTHMANE&theme=aura&hide_border=true&border_radius=8" width="50%" /> <br /> <br />
 </div>
 
 ![snake gif](https://github.com/BSK-OTHMANE/BSK-OTHMANE/blob/output/github-snake-dark.svg)
