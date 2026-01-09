@@ -3,10 +3,9 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=27&pause=1000&color=921CB1&background=BB80FF00&center=true&vCenter=true&width=435&lines=AI+%26+Data+Explorer;GenAI+%26+LLMs+Enthusiast;Turning+Data+into+Intelligence)](https://git.io/typing-svg)
 
 
-I am an Artificial Intelligence and Data Science Engineering student, passionate about Machine Learning, Deep Learning, Computer Vision, and NLP. My goal is to build intelligent systems capable of solving real-world problems using data-driven and scalable approaches.
+I am an Artificial Intelligence and Data Science Engineering student, passionate about Machine Learning and Deep Learning, with particular interests in Computer Vision and Natural Language Processing. My goal is to design intelligent systems that address real-world problems through data-driven, scalable, and well-founded learning approaches.
 
-I enjoy working on applied AI projects such as medical image segmentation, real-time computer vision systems, RAG-based chatbots, and AI analytics dashboards. I am particularly interested in combining data engineering, automation, and modern AI models to deliver impactful solutions.
-
+I enjoy working on applied AI projects such as medical image segmentation, real-time computer vision systems, and retrieval-augmented chatbots. Alongside practical development, I am increasingly interested in research directions involving transformer-based architectures, large language models, and multimodal learning, as well as in combining data engineering, automation, and modern AI models to build robust and impactful solutions.
 🌍 Based in Morocco
 
 ✉️ Contact: bouskine.othmane@gmail.com
