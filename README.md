@@ -25,7 +25,6 @@ Data Engineering and Workflow Automation
 
 Scalable and reliable AI systems
 
-💡 Ask me about machine learning, deep learning, RAG systems, computer vision, and how to build real-world AI projects as a student
 
 ### Skills
 
