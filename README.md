@@ -2,7 +2,6 @@
 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=300&size=27&pause=1000&color=921CB1&background=BB80FF00&center=true&vCenter=true&width=435&lines=AI+%26+Data+Explorer;GenAI+%26+LLMs+Enthusiast;Turning+Data+into+Intelligence)](https://git.io/typing-svg)
 
-
 I am an Artificial Intelligence and Data Science Engineering student, passionate about Machine Learning and Deep Learning, with particular interests in Computer Vision and Natural Language Processing. My goal is to design intelligent systems that address real-world problems through data-driven, scalable, and well-founded learning approaches.
 
 I enjoy working on applied AI projects such as medical image segmentation, real-time computer vision systems, and retrieval-augmented chatbots. Alongside practical development, I am increasingly interested in research directions involving transformer-based architectures, large language models, and multimodal learning, as well as in combining data engineering, automation, and modern AI models to build robust and impactful solutions.
@@ -23,7 +22,6 @@ NLP, LLMs and Retrieval-Augmented Generation (RAG)
 Data Engineering and Workflow Automation
 
 Scalable and reliable AI systems
-
 
 ### Skills
 
@@ -84,13 +82,14 @@ Scalable and reliable AI systems
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BSK-OTHMANE&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> <br /> 
-  <img src="https://streak-stats.demolab.com?user=BSK-OTHMANE&theme=aura&hide_border=true" width="50%" /> <br /><br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSK-OTHMANE&theme=aura&hide_border=true&layout=compact" width="36%" /> <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=BSK-OTHMANE&theme=aura&hide_border=true&include_all_commits=true&count_private=true" /><br/>
+
+<img src="https://streak-stats.demolab.com?user=BSK-OTHMANE&theme=aura&hide_border=true" /><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BSK-OTHMANE&theme=aura&layout=compact&hide_border=true" />
 </div>
 
 ![snake gif](https://raw.githubusercontent.com/BSK-OTHMANE/BSK-OTHMANE/output/github-snake-dark.svg)
-
 
 ### Social
 
