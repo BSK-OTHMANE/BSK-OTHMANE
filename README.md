@@ -5,6 +5,7 @@
 I am an Artificial Intelligence and Data Science Engineering student, passionate about Machine Learning and Deep Learning, with particular interests in Computer Vision and Natural Language Processing. My goal is to design intelligent systems that address real-world problems through data-driven, scalable, and well-founded learning approaches.
 
 I enjoy working on applied AI projects such as medical image segmentation, real-time computer vision systems, and retrieval-augmented chatbots. Alongside practical development, I am increasingly interested in research directions involving transformer-based architectures, large language models, and multimodal learning, as well as in combining data engineering, automation, and modern AI models to build robust and impactful solutions.
+
 🌍 Based in Morocco
 
 ✉️ Contact: bouskine.othmane@gmail.com
